@@ -24,3 +24,6 @@ sudo ./init.sh
 cd /home/vgs/vgsagent
 sudo chmod +x init.sh
 sudo ./init.sh
+
+## reboot
+sudo reboot
